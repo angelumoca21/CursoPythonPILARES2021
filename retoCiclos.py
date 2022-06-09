@@ -3,10 +3,11 @@ num = int(input("Ingresa un numero entero positivo:"))
 #     print(i,end=",")
 # print("0")
 
-num = int(input("Ingresa un numero entero positivo:"))
-# while num>=0:
-#     print(num)
+# while num>0:
+#     print(num,end=",")
 #     num = num - 1
+# print("0")
+
 while not(num<1):
     print(num,end=",")
     num = num - 1

@@ -18,3 +18,5 @@ totalConImpuesto = totalCuenta*1.16
 pagoxpersona = (totalConImpuesto+propina)/personas
 
 print("A cada persona le toca pagar $" + str(pagoxpersona))
+
+#Convertir codigo a funcion con parametros y sin retorno de datos.
