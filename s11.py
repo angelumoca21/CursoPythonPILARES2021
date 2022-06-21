@@ -1,4 +1,5 @@
 #Detector de palindromos
+#hola eduardo
 
 def run():
     fraseUser = input("Bienvenido al detector de palindromos, ingresa tu frase: ")
