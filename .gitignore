@@ -1,2 +1,5 @@
 
 __pycache__/dibujosAhorcado.cpython-310.pyc
+arduinoJS/node_modules
+package-lock.json
+package.json
